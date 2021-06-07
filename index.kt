@@ -1,14 +1,14 @@
 fun main(){
     var name1 :  Int = 1
-    var name2 :  Boolean
+    var name2 :  Boolean = true
     var name1 :  Double = 2334.094
     var name3 :  Long = 2344555666
     var name4 :  Char = "C"
-    var name5 :  Short =
-    var name6 :  Byte =
+    var name5 :  Short = 16
+    var name6 :  Byte = 8
     var name7 :  Float = 7.363f
     var name8 :  String = "Felix"
-    var name9 :
+
 
 
 
