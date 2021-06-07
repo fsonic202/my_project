@@ -52,6 +52,8 @@ fun main(){
     println(result)
     println(addition(2345, 8765))
 
+
+
     var agess = 30
     if(agess >= 12){
         println("Welcome! Your Are Successfully Login")
@@ -62,7 +64,16 @@ fun main(){
     }
 }
 
-fun addition(fnum : Int, snum : Int) : Int{
+fun add(fnum : Int, snum : Int) : Int{
     return fnum + snum
+
+    fun subtrcation(fnum : Int, snum : Int) : Int{
+        return fnum - snum
+
+        fun multiplication(fnum : Int, snum : Int) : Int{
+            return fnum * snum
+
+            fun division(fnum : Int, snum : Int) : Int{
+                return fnum / snum
 }
 
